@@ -227,31 +227,32 @@ html, body {
   }
   h1{
     color: #83000f;
-    font-size: 200px;
+    font-size: 45px;
     font-weight: bold;
-    text-shadow: 20px 12px #4c4137,
-    30px 12px #6b8dcd,
-    40px 12px #6b8dcd,
-    50px 12px #6b8dcd,
-    60px 12px #6b8dcd;
+    text-shadow: 2px 6px #4c4137,
+    3px 6px #6b8dcd,
+    4px 6px #6b8dcd,
+    5px 6px #6b8dcd,
+    6px 6px #6b8dcd;
     font-family: 'Lalezar', cursive;
+    
   }
   h1 span{
     color: #315bb1;
 text-transform: uppercase;
   }  h2{
     color: #83000f;
-    font-size: 200px;
+    font-size: 45px;
     font-weight: bold;
-    text-shadow: 20px 12px #4c4137,
-    30px 12px #6b8dcd,
-    40px 12px #6b8dcd,
-    50px 12px #6b8dcd,
-    60px 12px #6b8dcd;
+    text-shadow: 2px 6px #4c4137,
+    3px 6px #6b8dcd,
+    4px 6px #6b8dcd,
+    5px 6px #6b8dcd,
+    6px 6px #6b8dcd;
     font-family: 'Lalezar', cursive;
     position: fixed;
-    top: 200px;
-    right: 200px;
+    top: 45px;
+    right: 45px;
   }
   h2 span{
     color: #315bb1;
